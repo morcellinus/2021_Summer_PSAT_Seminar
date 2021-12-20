@@ -8,4 +8,5 @@
 - Evaluation metric은 f1score 입니다.
 
 `Teammates`
+
 | 이수정(27기) 이은서(27기) 이정우(27기) 조혜현(27기)
