@@ -6,3 +6,6 @@
 - 2021학년도 27기 PSAT 여름방학 세미나에서 쓰인 코드입니다.<br>
 - 주어진 Task는 Imbalanced Data Binary Classification이었습니다.<br>
 - Evaluation metric은 f1score 입니다.
+
+`Teammates`
+| 이수정(27기) 이은서(27기) 이정우(27기) 조혜현(27기)
